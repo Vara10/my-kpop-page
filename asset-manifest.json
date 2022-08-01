@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-kpop-page/static/css/main.87cd1987.css",
+    "main.js": "/my-kpop-page/static/js/main.2e7c2c50.js",
+    "static/js/787.759a1fb7.chunk.js": "/my-kpop-page/static/js/787.759a1fb7.chunk.js",
+    "static/media/wall.jpg": "/my-kpop-page/static/media/wall.57d91ece7bd7bccf5d9c.jpg",
+    "static/media/g5.jpg": "/my-kpop-page/static/media/g5.0c0bfbfbc0d24847075a.jpg",
+    "static/media/pic4.jpg": "/my-kpop-page/static/media/pic4.0ca62fe3948886e1ff60.jpg",
+    "static/media/pic2.jpeg": "/my-kpop-page/static/media/pic2.ca36f77ef4f9e0ac32c2.jpeg",
+    "static/media/pic1.jpg": "/my-kpop-page/static/media/pic1.ffd415952bc2b10381d0.jpg",
+    "static/media/app-store.png": "/my-kpop-page/static/media/app-store.2be29c88bfd54927d5e2.png",
+    "static/media/playstore.png": "/my-kpop-page/static/media/playstore.07bf350de810686fef72.png",
+    "static/media/musica.png": "/my-kpop-page/static/media/musica.4b5264ab605892c67534.png",
+    "index.html": "/my-kpop-page/index.html",
+    "main.87cd1987.css.map": "/my-kpop-page/static/css/main.87cd1987.css.map",
+    "main.2e7c2c50.js.map": "/my-kpop-page/static/js/main.2e7c2c50.js.map",
+    "787.759a1fb7.chunk.js.map": "/my-kpop-page/static/js/787.759a1fb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87cd1987.css",
+    "static/js/main.2e7c2c50.js"
+  ]
+}
